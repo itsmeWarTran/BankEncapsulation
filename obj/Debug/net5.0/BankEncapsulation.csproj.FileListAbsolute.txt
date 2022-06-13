@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/bin/Debug/net5.0/ref/BankEncapsulation.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/ref/BankEncapsulation.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.genruntimeconfig.cache
